@@ -1,0 +1,3 @@
+Test Case ID,Feature,Scenario,Steps,Expected Result,Actual Result,Status
+TC01,Addition,Valid addition,Enter 2 + 2 and press =,Result shows 4,4,Pass
+TC02,Division,Divide by zero,Enter 9 / 0 and press =,Error shown,App crashes,Fail
